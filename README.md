@@ -1,2 +1,6 @@
 # jokesJS
 jokes js only
+
+why is it not working i can't understand....
+maybe bcz its backend only file...
+idk its so much confusing !
