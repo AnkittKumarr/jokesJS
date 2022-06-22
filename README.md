@@ -1,0 +1,2 @@
+# jokesJS
+jokes js only
